@@ -5,6 +5,9 @@ Given a text file ('intervals.txt'), this program prints a series of non-interse
 for example:
 
 14 17
+
 -8 -5
+
 26 29
+
 -20 -15
