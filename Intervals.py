@@ -2,14 +2,6 @@
 
 #  Description: This program combines given intervals and prints a series of non-intersecting intervals
 
-#  Student Name: Mitchel Walker
-
-#  Student UT EID: mlw3852
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
 #  Date Created: 2/3/2019
 
 #  Date Last Modified: 2/3/2019
