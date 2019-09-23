@@ -1,9 +1,6 @@
-#  File: Intervals.py
+#!/usr/bin/env python
 
 #  Description: This program combines given intervals and prints a series of non-intersecting intervals
-
-#  Date Created: 2/3/2019
-
 #  Date Last Modified: 2/3/2019
 
 def create_list(filename):
